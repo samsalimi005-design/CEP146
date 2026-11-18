@@ -75,6 +75,3 @@ standard open-source license.
 
 Student 1: sam salimi
 
-
-متن
-متن
